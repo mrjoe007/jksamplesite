@@ -1,6 +1,12 @@
 h1 {
   color: #DC143C;
-  font-family: Comic Sans MS;
+  font-size: 60 px;
+  font-family: Arial;
+}
+
+h2 {
+  color: #ff99ff;
+  font-family: Times New Roman;
 }
 
 /* body{
@@ -15,6 +21,6 @@ img{
   width: 304px; height: 304px;
 }
 
-iframe{
+/*iframe{
   width: 608px; height: 304px;
-}
+}*/
