@@ -1,1 +1,20 @@
+h1 {
+  color: #DC143C;
+  font-family: Comic Sans MS;
+}
 
+/* body{
+  background-color: #D2B48C;
+} */
+
+a{
+  color: black;
+}
+
+img{
+  width: 304px; height: 304px;
+}
+
+iframe{
+  width: 400px; height: 200px;
+}
