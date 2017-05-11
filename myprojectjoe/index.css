@@ -9,6 +9,16 @@ h2 {
   font-family: Times New Roman;
 }
 
+h2 {
+  color: #009933;
+  font-family: Times New Roman;
+}
+
+h3 {
+  color: #cc0066;
+  font-family: Times New Roman;
+}
+
 /* body{
   background-color: #D2B48C;
 } */
